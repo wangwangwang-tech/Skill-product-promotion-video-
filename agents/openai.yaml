@@ -1,0 +1,4 @@
+interface:
+  display_name: "TikTok 商品带货视频"
+  short_description: "从商品图和卖点生成15秒TikTok带货视频提示词。"
+  default_prompt: "Use $tiktok-product-video to create a 15-second TikTok Shop video prompt from this product image and selling points."

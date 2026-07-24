@@ -1,0 +1,7 @@
+.seedance.local.env
+.env
+.env.*
+output/
+.node-deps/
+test/
+*.mp4
