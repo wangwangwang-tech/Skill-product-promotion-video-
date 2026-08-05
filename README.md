@@ -49,12 +49,26 @@ Skill 会先返回完整分镜提示词和英文配音。你可以回复具体�
 
 ## 示例
 
-以下为本 Skill 的一次示例输入与生成结果：
+以下为本 Skill 的一次示例输入与生成结果。左侧为商品参考图，右侧为基于该图生成的 15 秒视频：
 
-- [商品参考图](example/耳机.png)
-- [15 秒生成视频](example/shokz-openswim-pro-test.mp4)
+<table>
+  <tr>
+    <th>商品参考图</th>
+    <th>15 秒生成视频</th>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/wangwangwang-tech/Skill-product-promotion-video-/main/example/%E8%80%B3%E6%9C%BA.png" alt="商品参考图" width="100%" />
+    </td>
+    <td width="50%">
+      <video src="https://raw.githubusercontent.com/wangwangwang-tech/Skill-product-promotion-video-/main/example/shokz-openswim-pro-test.mp4" controls muted playsinline width="100%">
+        你的浏览器不支持内嵌视频播放。
+      </video>
+    </td>
+  </tr>
+</table>
 
-![商品参考图](example/耳机.png)
+如未显示播放器，可直接打开：[商品参考图](example/耳机.png) ｜ [15 秒生成视频](example/shokz-openswim-pro-test.mp4)
 
 示例展示的是一款开放式运动耳机。实际生成结果受商品图、卖点、提示词和所选视频模型影响。
 
