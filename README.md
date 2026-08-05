@@ -47,6 +47,17 @@ Use $tiktok-product-video to create a 15-second TikTok Shop video prompt from th
 
 Skill 会先返回完整分镜提示词和英文配音。你可以回复具体修改意见，例如“开头改成跑步场景”“不要出现价格”“语气更轻松”。只有回复“确认生成”或同等明确指令后，才会提交视频任务。
 
+## 示例
+
+以下为本 Skill 的一次示例输入与生成结果：
+
+- [商品参考图](example/耳机.png)
+- [15 秒生成视频](example/shokz-openswim-pro-test.mp4)
+
+![商品参考图](example/耳机.png)
+
+示例展示的是一款开放式运动耳机。实际生成结果受商品图、卖点、提示词和所选视频模型影响。
+
 ## 使用 Seedance 生成视频（可选）
 
 若要实际调用火山引擎 Seedance，请在工作区创建本地文件 `.seedance.local.env`：

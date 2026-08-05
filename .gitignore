@@ -5,3 +5,4 @@ output/
 .node-deps/
 test/
 *.mp4
+!example/*.mp4
